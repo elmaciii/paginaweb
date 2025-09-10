@@ -1,0 +1,59 @@
+{
+  "version": "1.0.0",
+  "name": "Noticias del CMS",
+  "description": "Archivo compartido de noticias del CMS",
+  "lastUpdate": "2025-09-10T03:21:34.599Z",
+  "articles": [
+    {
+      "id": "mfdee0s0gxfd7fvmoqg",
+      "title": "Diputados dio media sanción al proyecto para que Sauce Montrull se convierta en municipio",
+      "description": "El proyecto obtuvo apoyo unánime en la Cámara de Diputados y deberá tratarse en el Senado. La presidenta de la comuna destacó a Elonce la importancia que implica este cambio para el desarrollo de la localidad y la inclusión en el presupuesto 2026.",
+      "content": "El proyecto obtuvo apoyo unánime en la Cámara de Diputados y deberá tratarse en el Senado. La presidenta de la comuna destacó a Elonce la importancia que implica este cambio para el desarrollo de la localidad y la inclusión en el presupuesto 2026.",
+      "url": "#",
+      "image": "https://elonce-media.elonce.com/fotos/2025/07/30/l_1753913888_38344.webp",
+      "source": "ELONCE",
+      "category": "politica",
+      "status": "published",
+      "publishedAt": "2025-09-10T03:06:14.256Z",
+      "createdAt": "2025-09-10T03:06:14.256Z",
+      "updatedAt": "2025-09-10T03:06:14.256Z",
+      "views": 0,
+      "likes": 0,
+      "shares": 0
+    },
+    {
+      "id": "mfdedcb907fbw38fit8v",
+      "title": "Reforma del Código Procesal Penal en Entre Ríos: “Hay una decisión política de prevenir el delito”",
+      "description": "“Hay que agilizar y poner a la Justicia cerca de la ciudadanía”, sostuvo Esteban Vitor, secretario Legal y Técnico del Gobierno de Entre Ríos.",
+      "content": "“Hay que agilizar y poner a la Justicia cerca de la ciudadanía”, sostuvo Esteban Vitor, secretario Legal y Técnico del Gobierno de Entre Ríos.",
+      "url": "#",
+      "image": "https://elonce-media.elonce.com/fotos/2025/09/09/l_1757471514_92157.webp",
+      "source": "ELONCE",
+      "category": "politica",
+      "status": "published",
+      "publishedAt": "2025-09-10T03:05:42.549Z",
+      "createdAt": "2025-09-10T03:05:42.549Z",
+      "updatedAt": "2025-09-10T03:05:42.549Z",
+      "views": 0,
+      "likes": 0,
+      "shares": 0
+    },
+    {
+      "id": "mfdecmqyjgwm73exd2q",
+      "title": "Argentina perdió 1-0 con Ecuador en Guayaquil y cerró su participación en las Eliminatorias",
+      "description": "En Guayaquil, un penal en el agregado del primer tiempo le dio los tres puntos ante una deslucida Argentina. Ambos equipos terminaron con diez jugadores por las expulsiones de Nicolás Otamendi y Moisés Caicedo.",
+      "content": "En Guayaquil, un penal en el agregado del primer tiempo le dio los tres puntos ante una deslucida Argentina. Ambos equipos terminaron con diez jugadores por las expulsiones de Nicolás Otamendi y Moisés Caicedo.",
+      "url": "#",
+      "image": "https://elonce-media.elonce.com/fotos/2025/09/09/l_1757466406_70637.webp",
+      "source": "ELONCE",
+      "category": "deportes",
+      "status": "published",
+      "publishedAt": "2025-09-10T03:05:09.418Z",
+      "createdAt": "2025-09-10T03:05:09.418Z",
+      "updatedAt": "2025-09-10T03:05:09.418Z",
+      "views": 0,
+      "likes": 0,
+      "shares": 0
+    }
+  ]
+}
